@@ -5,17 +5,17 @@
 //
 
 windowBg: #282a36;
-windowFg: #eeeeee;
-windowBgOver: #1F1F1F;
-windowBgRipple: #00B16A;
+windowFg: #f8f8f2;
+windowBgOver: #44475a;
+windowBgRipple: #ff5555;
 windowFgOver: windowFg;
 windowSubTextFg: #949494;
 windowSubTextFgOver: #919191;
-windowBoldFg: #eeeeee;
-windowBoldFgOver: #eeeeee;
-windowBgActive: #00B16A;
+windowBoldFg: #f8f8f2;
+windowBoldFgOver: #f8f8f2;
+windowBgActive: #ff5555;
 windowFgActive: #ffffff;
-windowActiveTextFg: #eeeeee;
+windowActiveTextFg: #f8f8f2;
 windowShadowFg: #000000;
 windowShadowFgFallback: #333333;
 
@@ -34,15 +34,18 @@ activeButtonSecondaryFg: #cceeff;
 activeButtonSecondaryFgOver: activeButtonSecondaryFg;
 activeLineFg: #2ECC71;
 activeLineFgError: #e48383;
+
 lightButtonBg: windowBg;
 lightButtonBgOver: #292929;
 lightButtonBgRipple: #292929;
 lightButtonFg: windowActiveTextFg;
 lightButtonFgOver: lightButtonFg;
+
 attentionButtonFg: #d14e4e;
 attentionButtonFgOver: #ffffff;
 attentionButtonBgOver: #D64541;
 attentionButtonBgRipple: #C0392B;
+
 outlineButtonBg: windowBg;
 outlineButtonBgOver: lightButtonBgOver;
 outlineButtonOutlineFg: windowBgActive;
@@ -74,11 +77,14 @@ placeholderFgActive: #aaaaaa;
 inputBorderFg: #e0e0e0;
 filterInputBorderFg: #2ECC71;
 checkboxFg: #b3b3b3;
+
 sliderBgInactive: #e1eaef;
 sliderBgActive: windowBgActive;
+
 tooltipBg: #eef2f5;
 tooltipFg: #5d6c80;
 tooltipBorderFg: #c9d1db;
+
 titleBg: windowBgOver;
 titleShadow: #00000003;
 titleButtonFg: #ababab;
@@ -86,14 +92,17 @@ titleButtonBgOver: #e5e5e5;
 titleButtonFgOver: #9a9a9a;
 titleButtonCloseBgOver: #e81123;
 titleButtonCloseFgOver: windowFgActive;
-titleFgActive: #eeeeee;
+titleFgActive: #f8f8f2;
 titleFg: #acacac;
+
 trayCounterBg: #f23c34;
 trayCounterBgMute: #888888;
 trayCounterFg: #ffffff;
 trayCounterBgMacInvert: #ffffff;
 trayCounterFgMacInvert: #ffffff01;
+
 layerBg: #0000007f;
+
 cancelIconFg: menuIconFg;
 cancelIconFgOver: menuIconFgOver;
 
@@ -101,22 +110,28 @@ boxBg: windowBg;
 boxTextFg: windowFg;
 boxTextFgGood: #4ab44a;
 boxTextFgError: #d84d4d;
-boxTitleFg: #eeeeee;
+boxTitleFg: #f8f8f2;
+
 boxSearchBg: boxBg;
 boxSearchCancelIconFg: cancelIconFg;
 boxSearchCancelIconFgOver: cancelIconFgOver;
+
 boxTitleAdditionalFg: #808080;
 boxTitleCloseFg: cancelIconFg;
 boxTitleCloseFgOver: cancelIconFgOver;
+
 membersAboutLimitFg: windowSubTextFgOver;
+
 contactsBg: windowBg;
 contactsBgOver: windowBgOver;
 contactsNameFg: boxTextFg;
 contactsStatusFg: windowSubTextFg;
 contactsStatusFgOver: windowSubTextFgOver;
 contactsStatusFgOnline: windowActiveTextFg;
+
 photoCropFadeBg: layerBg;
 photoCropPointFg: #ffffff7f;
+
 introBg: windowBg;
 introTitleFg: windowBoldFg;
 introDescriptionFg: windowSubTextFg;
@@ -128,6 +143,7 @@ introCoverPlaneTrace: #5ec6ff69;
 introCoverPlaneInner: #c6d8e8;
 introCoverPlaneOuter: #a1bed4;
 introCoverPlaneTop: #ffffff;
+
 dialogsMenuIconFg: menuIconFg;
 dialogsMenuIconFgOver: menuIconFgOver;
 dialogsBg: windowBg;
@@ -139,8 +155,8 @@ dialogsTextFgService: windowActiveTextFg;
 dialogsDraftFg: #dd4b39;
 dialogsVerifiedIconBg: windowBgActive;
 dialogsVerifiedIconFg: windowFgActive;
-dialogsSendingIconFg: #eeeeee;
-dialogsSentIconFg: #eeeeee;
+dialogsSendingIconFg: #f8f8f2;
+dialogsSentIconFg: #f8f8f2;
 dialogsUnreadBg: #D91E18;
 dialogsUnreadBgMuted: #ABB7B7;
 dialogsUnreadFg: windowFgActive;
@@ -158,13 +174,13 @@ dialogsSentIconFgOver: dialogsSentIconFg;
 dialogsUnreadBgOver: dialogsUnreadBg;
 dialogsUnreadBgMutedOver: dialogsUnreadBgMuted;
 dialogsUnreadFgOver: dialogsUnreadFg;
-dialogsBgActive: #00B16A;
+dialogsBgActive: #ff5555;
 dialogsNameFgActive: windowFgActive;
 dialogsChatIconFgActive: dialogsNameFgActive;
 dialogsDateFgActive: windowFgActive;
 dialogsTextFgActive: windowFgActive;
 dialogsTextFgServiceActive: dialogsTextFgActive;
-dialogsDraftFgActive: #eeeeee;
+dialogsDraftFgActive: #f8f8f2;
 dialogsVerifiedIconBgActive: dialogsTextFgActive;
 dialogsVerifiedIconFgActive: dialogsBgActive;
 dialogsSendingIconFgActive: #ffffff99;
@@ -174,17 +190,22 @@ dialogsUnreadBgMutedActive: dialogsDraftFgActive;
 dialogsUnreadFgActive: dialogsBgActive;
 dialogsForwardBg: dialogsBgActive;
 dialogsForwardFg: dialogsNameFgActive;
+
 searchedBarBg: #242424;
 searchedBarBorder: #242424;
 searchedBarFg: #242424;
+
 topBarBg: windowBg;
+
 emojiPanBg: windowBg;
 emojiPanCategories: windowBg; // windowBg;
 emojiPanHeaderFg: windowSubTextFg;
 emojiPanHeaderBg: emojiPanBg; // emojiPanBg;
+
 stickerPanDeleteBg: #000000cc;
 stickerPanDeleteFg: windowFgActive;
 stickerPreviewBg: #ffffffb0;
+
 historyTextInFg: windowFg;
 historyTextOutFg: windowFg;
 historyCaptionInFg: historyTextInFg;
@@ -200,9 +221,9 @@ historySendingInvertedIconFg: #ffffffc8;
 historySystemBg: #89a0b47f;
 historySystemBgSelected: #bbc8d4a2;
 historySystemFg: windowFgActive;
-historyUnreadBarBg: #00B16A;
-historyUnreadBarBorder: #00B16A;
-historyUnreadBarFg: #eeeeee;
+historyUnreadBarBg: #ff5555;
+historyUnreadBarBorder: #ff5555;
+historyUnreadBarFg: #f8f8f2;
 historyForwardChooseBg: #0000004c;
 historyForwardChooseFg: windowFgActive;
 historyPeer1NameFg: #c03d33;
@@ -223,27 +244,28 @@ historyPeer8NameFg: #ce671b;
 historyPeer8UserpicBg: #faa774;
 historyPeerUserpicFg: windowFgActive;
 historyScrollBarBg: #0000007a;
-historyScrollBarBgOver: #00B16Abc;
+historyScrollBarBgOver: #ff5555;
 historyScrollBg: #3333334c;
 historyScrollBgOver: #3333336b;
+
 msgInBg: windowBg;
-msgInBgSelected: #1F1F1F;
-msgOutBg: #00B16A;
-msgOutBgSelected: #1F1F1F;
+msgInBgSelected: #44475a;
+msgOutBg: #ff5555;
+msgOutBgSelected: #44475a;
 msgSelectOverlay: #358cd44c;
 msgStickerOverlay: #358cd47f;
 msgInServiceFg: windowActiveTextFg;
 msgInServiceFgSelected: windowActiveTextFg;
 msgOutServiceFg: #333333;
-msgOutServiceFgSelected: #00B16A;
+msgOutServiceFgSelected: #ff5555;
 msgInShadow: #748ea229;
 msgInShadowSelected: #548dbb29;
 msgOutShadow: #3ac34740;
 msgOutShadowSelected: #37a78e40;
-msgInDateFg: #eeeeee;
-msgInDateFgSelected: #00B16A;
+msgInDateFg: #f8f8f2;
+msgInDateFgSelected: #ff5555;
 msgOutDateFg: #333333;
-msgOutDateFgSelected: #00B16A;
+msgOutDateFgSelected: #ff5555;
 msgServiceFg: windowFgActive;
 msgServiceBg: #556e837f;
 msgServiceBgSelected: #8ca0b3a2;
@@ -263,8 +285,8 @@ msgFileThumbLinkInFgSelected: lightButtonFgOver;
 msgFileThumbLinkOutFg: #5eba5b;
 msgFileThumbLinkOutFgSelected: #31a298;
 msgFileInBg: windowBgActive;
-msgFileInBgOver: #00B16A;
-msgFileInBgSelected: #00B16A;
+msgFileInBgOver: #ff5555;
+msgFileInBgSelected: #ff5555;
 msgFileOutBg: #78c67f;
 msgFileOutBgOver: #6bc272;
 msgFileOutBgSelected: #5fb389;
@@ -274,7 +296,7 @@ msgFile1BgOver: #1E89C3;
 msgFile1BgSelected: #0774AF;
 msgFile2Bg: #4DC595;
 msgFile2BgDark: #28B67D;
-msgFile2BgOver: #00B16A;
+msgFile2BgOver: #ff5555;
 msgFile2BgSelected: #008952;
 msgFile3Bg: #FF9287;
 msgFile3BgDark: #D95E51;
@@ -284,6 +306,7 @@ msgFile4Bg: #FFC76D;
 msgFile4BgDark: #FCB544;
 msgFile4BgOver: #F39C12;
 msgFile4BgSelected: #C07704;
+
 historyFileInIconFg: msgInBg;
 historyFileInIconFgSelected: msgInBgSelected;
 historyFileInRadialFg: historyFileInIconFg;
@@ -296,29 +319,36 @@ historyFileThumbIconFg: msgInBg;
 historyFileThumbIconFgSelected: msgInBgSelected;
 historyFileThumbRadialFg: historyFileThumbIconFg;
 historyFileThumbRadialFgSelected: historyFileThumbIconFgSelected;
+
 msgWaveformInActive: windowBgActive;
 msgWaveformInActiveSelected: #51a3d3;
 msgWaveformInInactive: #d4dee6;
 msgWaveformInInactiveSelected: #9cc1e1;
 msgWaveformOutActive: #78c67f;
-msgWaveformOutActiveSelected: #00B16A;
+msgWaveformOutActiveSelected: #ff5555;
 msgWaveformOutInactive: #b3e2b4;
 msgWaveformOutInactiveSelected: #91c3c3;
 msgBotKbOverBgAdd: #ffffff20;
 msgBotKbIconFg: msgServiceFg;
 msgBotKbRippleBg: #00000020;
+
 mediaInFg: msgInDateFg;
 mediaInFgSelected: msgInDateFgSelected;
 mediaOutFg: msgOutDateFg;
 mediaOutFgSelected: msgOutDateFgSelected;
+
 youtubePlayIconBg: #e83131c8;
 youtubePlayIconFg: windowFgActive;
+
 videoPlayIconBg: #0000007f;
 videoPlayIconFg: #ffffff;
+
 toastBg: #000000b2;
 toastFg: windowFgActive;
+
 reportSpamBg: emojiPanHeaderBg;
 reportSpamFg: windowFg;
+
 historyToDownShadow: #00000040;
 historyComposeAreaBg: msgInBg;
 historyComposeAreaFg: historyTextInFg;
@@ -335,22 +365,27 @@ historyReplyCancelFgOver: cancelIconFgOver;
 historyComposeButtonBg: historyComposeAreaBg;
 historyComposeButtonBgOver: windowBgOver;
 historyComposeButtonBgRipple: windowBgRipple;
+
 overviewCheckBg: #00000040;
 overviewCheckFg: windowBg;
 overviewCheckFgActive: windowBg;
 overviewPhotoSelectOverlay: #40ace333;
+
 profileStatusFgOver: #7c99b2;
 profileVerifiedCheckBg: windowBgActive;
 profileVerifiedCheckFg: windowFgActive;
+
 notificationsBoxMonitorFg: #333333;
 notificationsBoxScreenBg: dialogsBgActive;
 notificationSampleUserpicFg: windowBgActive;
 notificationSampleCloseFg: #d7d7d7; // windowSubTextFg;
 notificationSampleTextFg: #d7d7d7; // windowSubTextFg;
 notificationSampleNameFg: #939393; // windowSubTextFg;
+
 mainMenuBg: windowBg;
 mainMenuCoverBg: dialogsBgActive;
 mainMenuCoverFg: windowFgActive;
+
 mediaPlayerBg: windowBg;
 mediaPlayerActiveFg: windowBgActive;
 mediaPlayerInactiveFg: sliderBgInactive;
@@ -385,4 +420,5 @@ mediaviewPlaybackIconFg: mediaviewPlaybackActive;
 mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver;
 mediaviewTransparentBg: #ffffff;
 mediaviewTransparentFg: #cccccc;
+
 notificationBg: windowBg;
