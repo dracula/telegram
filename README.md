@@ -8,5 +8,8 @@ Telegram Desktop Theme based on Dracula Palette
 2. Upload to any Telegram chat.
 3. Open the file and apply theme.
 
+## Palette
+Based on https://github.com/dracula/dracula-theme
+
 ## License
 MIT License [LICENSE](LICENSE).
