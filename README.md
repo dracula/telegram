@@ -5,6 +5,11 @@
 	TODO:
 	* Find somewhere to put a version number.
 	* Add screenshot. (see code below)
+
+	FIXME:
+	(COLOR ITEMS NOT FIXED ==>)
+	Intro ITEMS
+	Search bar Items ? (maybe)
 --->
 
 <!---
