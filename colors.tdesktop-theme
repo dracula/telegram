@@ -37,7 +37,7 @@ windowSubTextFgOver: pPurple; // Hotkey hover text color?
 windowBoldFg: pYellow; // Bolded text (headers) [te]
 windowBoldFgOver: windowBoldFg; // windowBoldFg but on hover (idk where used)
 windowBgActive: pGreen; // Checked radio and checkbox color
-windowFgActive: pBG; // Button Text [te]
+windowFgActive: pBg; // Button Text [te]
 windowActiveTextFg: pCyan; // Hyperlink text color (and text input active labels)
 windowShadowFg: #000000f0; // [te]
 windowShadowFgFallback: cBlack; // [te]
@@ -106,7 +106,7 @@ titleButtonCloseFgOver: pRed; // ??? [te]
 titleFgActive: pPurple; // Window Title color when active [te]
 titleFg: pComment; // Window Title color
 trayCounterBg: pSelection; // ??? [te]
-trayCounterBgMute: pBG; // ??? [te]
+trayCounterBgMute: pBg; // ??? [te]
 trayCounterFg: pFg; // ??? [te]
 trayCounterBgMacInvert: pComment; // ??? [te]
 trayCounterFgMacInvert: pFg; // ??? [te]
@@ -137,8 +137,8 @@ introBg: windowBg;
 introTitleFg: windowBoldFg;
 introDescriptionFg: windowSubTextFg;
 introErrorFg: pRed; // [te]
-introCoverTopBg: pBG; // [te]
-introCoverBottomBg: pBG; // [te]
+introCoverTopBg: pBg; // [te]
+introCoverBottomBg: pBg; // [te]
 introCoverIconsFg: pComment; // [te]
 introCoverPlaneTrace: pCyan; // [te]
 introCoverPlaneInner: pCyan; // [te]
@@ -154,7 +154,7 @@ dialogsTextFg: windowSubTextFg;
 dialogsTextFgService: windowActiveTextFg;
 dialogsDraftFg: pRed; // Draft label color
 dialogsVerifiedIconBg: pCyan; // verified icon bg [te]
-dialogsVerifiedIconFg: pBG; // verified icon text color [te]
+dialogsVerifiedIconFg: pBg; // verified icon text color [te]
 dialogsSendingIconFg: pOrange; // ??? little clock icon on chat contact (the ones on left sidebar) when sending 
 dialogsSentIconFg: pGreen;
 dialogsUnreadBg: pComment; // [te]
@@ -190,7 +190,7 @@ dialogsUnreadBgMutedActive: dialogsUnreadBgMuted;
 dialogsUnreadFgActive: dialogsUnreadFg;
 dialogsForwardBg: dialogsBgActive;
 dialogsForwardFg: pCyan; // [te]
-searchedBarBg: pBG; // Results & 'no msgs found' msg in search results [te]
+searchedBarBg: pBg; // Results & 'no msgs found' msg in search results [te]
 searchedBarBorder: cTransparent; // [te]
 searchedBarFg: pPink; // Text 'Search for messages' in search results. [te]
 topBarBg: windowBg;
@@ -215,7 +215,7 @@ historySendingInIconFg: pOrange; // [te]
 historySendingInvertedIconFg: pOrange; // little 'eye' icon on some media msgs (ie sticker, image) to indicate views? [te]
 historySystemBg: pYellow; // [te]
 historySystemBgSelected: pOrange; // [te]
-historySystemFg: pBG; // windowFgActive; [te]
+historySystemFg: pBg; // windowFgActive; [te]
 historyUnreadBarBg: pSelection;
 historyUnreadBarBorder: pSelection;
 historyUnreadBarFg: cWhite;
@@ -237,7 +237,7 @@ historyPeer7NameFg: pComment; // [te]
 historyPeer7UserpicBg: pComment; // [te]
 historyPeer8NameFg: pOrange; // [te]
 historyPeer8UserpicBg: pOrange; // [te]
-historyPeerUserpicFg: pBG; //  [te]
+historyPeerUserpicFg: pBg; //  [te]
 historyScrollBarBg: scrollBarBg;
 historyScrollBarBgOver: scrollBarBgOver;
 historyScrollBg: scrollBg;
@@ -309,7 +309,7 @@ msgWaveformOutActiveSelected: pGreen;
 msgWaveformOutInactive: windowBg;
 msgWaveformOutInactiveSelected: windowBg;
 msgBotKbOverBgAdd: rippleBgLight; // [te]
-msgBotKbIconFg: pBG; //  [te]
+msgBotKbIconFg: pBg; //  [te]
 msgBotKbRippleBg: activeButtonBgRipple; //menuBgRipple; // Bot (system) chat buttons [ie theme like/dislike]
 mediaInFg: pOrange; // [te]
 mediaInFgSelected: pOrange; // [te]
@@ -352,7 +352,7 @@ notificationSampleNameFg: pYellow; // [te]
 mainMenuBg: windowBg;
 mainMenuCoverBg: pSelection; // [te]
 mainMenuCoverFg:  pGreen; // [te]
-mediaPlayerBg:  pBG; //  [te]
+mediaPlayerBg:  pBg; //  [te]
 mediaPlayerActiveFg: pGreen; // [te]
 mediaPlayerInactiveFg: pComment; // [te]
 mediaPlayerDisabledFg: pSelection; // [te]
@@ -363,16 +363,16 @@ mediaviewFileRedCornerFg: #ff0000; // [te]
 mediaviewFileYellowCornerFg: #e7f63b; // [te]
 mediaviewFileGreenCornerFg: #07ee41; // [te]
 mediaviewFileBlueCornerFg: #38d9fc; // [te]
-mediaviewFileExtFg: pBG; // [te]
-mediaviewMenuBg: pBG; // [te]
+mediaviewFileExtFg: pBg; // [te]
+mediaviewMenuBg: pBg; // [te]
 mediaviewMenuBgOver: pSelection; // [te]
 mediaviewMenuBgRipple: rippleBgLight; // [te]
 mediaviewMenuFg: pFg; // windowFgActive; [te]
 mediaviewBg: #282a36e0; // [te]
 mediaviewVideoBg: imageBg;
-mediaviewControlBg: pBG; //  [te]
+mediaviewControlBg: pBg; //  [te]
 mediaviewControlFg: pComment; // windowFgActive; [te]
-mediaviewCaptionBg: pBG; //  [te]
+mediaviewCaptionBg: pBg; //  [te]
 mediaviewCaptionFg: cWhite;
 mediaviewTextLinkFg: pCyan; // [te]
 mediaviewSaveMsgBg: toastBg;
@@ -402,4 +402,4 @@ filterInputInactiveBg: #44475a20; // [te]
 profileVerifiedCheckBg: pCyan; // [te]
 historyReplyIconFg: windowBgActive;
 historyToDownBg: #282a36cc; // [te]
-titleBgActive: pBG; //  [te]
+titleBgActive: pBg; //  [te]

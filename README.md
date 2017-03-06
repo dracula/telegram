@@ -25,6 +25,10 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 --- | ---
  [Neil Smith](https://github.com/nmsmith22389) | [Irfan Maulana](https://github.com/mazipan)
 
+## Changelog
+
+See the [changelog](./CHANGELOG.md) file for the list of changes.
+
 ## License
 
 [MIT License](./LICENSE)
