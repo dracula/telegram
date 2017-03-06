@@ -1,0 +1,24 @@
+{
+  "name": "dracula-telegram",
+  "version": "0.1.0",
+  "description": "A dark theme for Telegram Desktop based on the Dracula Palette.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dracula/telegram.git"
+  },
+  "keywords": [
+    "dracula",
+    "telegram",
+    "theme"
+  ],
+  "author": "Neil Smith, Irfan Maulana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dracula/telegram/issues"
+  },
+  "homepage": "https://github.com/dracula/telegram#readme"
+}
