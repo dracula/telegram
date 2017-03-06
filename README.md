@@ -1,4 +1,4 @@
-# dracula-telegram-theme
+# Dracula for Telegram Desktop
 Telegram Desktop Theme based on Dracula Palette
 
 ![Dracula Telegram Theme](https://raw.githubusercontent.com/mazipan/dracula-telegram-theme/master/preview.PNG)
@@ -11,5 +11,14 @@ Telegram Desktop Theme based on Dracula Palette
 ## Palette
 Based on https://github.com/dracula/dracula-theme
 
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+
+[![Irfan Maulana](https://avatars3.githubusercontent.com/u/7221389?v=3&s=70)](https://github.com/mazipan) | [![Neil Smith](https://avatars2.githubusercontent.com/u/8648114?v=3&s=70)](https://github.com/nmsmith22389)
+--- | ---
+[Irfan Maulana](https://github.com/mazipan) | [Neil Smith](https://github.com/nmsmith22389)
+
 ## License
-MIT License [LICENSE](LICENSE).
+
+[MIT License](./LICENSE)
