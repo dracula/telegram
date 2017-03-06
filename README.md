@@ -4,7 +4,7 @@ Telegram Desktop Theme based on Dracula Palette
 ![Dracula Telegram Theme](https://raw.githubusercontent.com/mazipan/dracula-telegram-theme/master/preview.PNG)
 
 ## Installation
-1. Download from [here] (https://raw.githubusercontent.com/mazipan/dracula-telegram-theme/master/colors.tdesktop-theme).
+1. Download from [here] (https://github.com/dracula/telegram/blob/master/colors.tdesktop-theme).
 2. Upload to any Telegram chat.
 3. Open the file and apply theme.
 
