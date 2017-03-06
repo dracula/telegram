@@ -6,12 +6,15 @@
 
 ## Installation
 1. Go to [Releases](https://github.com/dracula/telegram/releases) and download the latest version.
-2. Drag into to any Telegram chat.
-3. Click `Apply Theme`.
 
-	*(also available on the [Desktop Themes Channel](https://t.me/themes))*
+	*The file that needs to be downloaded is under each release called `dracula-theme.tdesktop-theme`.*
+2. In **Telegram Desktop** go to setting and under the `Chat background` section click on `Choose from file` and select the file you just downloaded.
+3. Click `Keep Changes` to apply the theme.
+
+	*(The theme is also available on the [Desktop Themes Channel](https://t.me/themes))*
 
 ## Palette
+
 Based on https://github.com/dracula/dracula-theme
 
 ## Team
