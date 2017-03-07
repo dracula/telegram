@@ -27,7 +27,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## Changelog
 
-See the [changelog](./CHANGELOG.md) file for the list of changes.
+See the [releases](https://github.com/dracula/telegram/releases) page for the list of changes.
 
 ## License
 
