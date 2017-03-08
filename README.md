@@ -1,21 +1,12 @@
 # Dracula for [Telegram Desktop](https://desktop.telegram.org/)
 
-> :smiling_imp: A dark theme for [Telegram Desktop](https://desktop.telegram.org/) based on the Dracula Palette.
+> A dark theme for [Telegram Desktop](https://desktop.telegram.org/).
 
-![Screenshot](./preview.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/telegram.png)
 
-## Installation
-1. Go to [Releases](https://github.com/dracula/telegram/releases) and download the latest version.
+## Install
 
-	*The file that needs to be downloaded is under each release called `dracula-theme.tdesktop-theme`.*
-2. In **Telegram Desktop** go to setting and under the `Chat background` section click on `Choose from file` and select the file you just downloaded.
-3. Click `Keep Changes` to apply the theme.
-
-	*(The theme is also available on the [Desktop Themes Channel](https://t.me/themes))*
-
-## Palette
-
-Based on https://github.com/dracula/dracula-theme
+All instructions can be found at [draculatheme.com/telegram](https://draculatheme.com/telegram).
 
 ## Team
 
