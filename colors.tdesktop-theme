@@ -18,6 +18,7 @@ pPink: #ff79c6;
 pPurple: #bd93f9;
 pRed: #ff5555;
 pYellow: #f1fa8c;
+pAnthracite: #212020;
 
 
 // Color Vars
@@ -155,7 +156,7 @@ dialogsTextFgService: windowActiveTextFg;
 dialogsDraftFg: pRed; // Draft label color
 dialogsVerifiedIconBg: pCyan; // verified icon bg [te]
 dialogsVerifiedIconFg: pBg; // verified icon text color [te]
-dialogsSendingIconFg: pOrange; // ??? little clock icon on chat contact (the ones on left sidebar) when sending 
+dialogsSendingIconFg: pOrange; // ??? little clock icon on chat contact (the ones on left sidebar) when sending
 dialogsSentIconFg: pGreen;
 dialogsUnreadBg: pComment; // [te]
 dialogsUnreadBgMuted: pSelection; // [te]
@@ -233,8 +234,8 @@ historyPeer5NameFg: pPurple; // [te]
 historyPeer5UserpicBg: pPurple; // [te]
 historyPeer6NameFg: pPink; // [te]
 historyPeer6UserpicBg: pPink; // [te]
-historyPeer7NameFg: pComment; // [te]
-historyPeer7UserpicBg: pComment; // [te]
+historyPeer7NameFg: pAnthracite; // [te]
+historyPeer7UserpicBg: pAnthracite; // [te]
 historyPeer8NameFg: pOrange; // [te]
 historyPeer8UserpicBg: pOrange; // [te]
 historyPeerUserpicFg: pBg; //  [te]
