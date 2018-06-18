@@ -105,7 +105,7 @@ titleButtonCloseBgOver: cTransparent; // ??? [te]
 titleButtonCloseFgOver: pRed; // ??? [te]
 titleFgActive: pPurple; // Window Title color when active [te]
 titleFg: pComment; // Window Title color
-trayCounterBg: pSelection; // ??? [te]
+trayCounterBg: pRed; // Tray icon counter background for unread messages
 trayCounterBgMute: pBg; // ??? [te]
 trayCounterFg: pFg; // ??? [te]
 trayCounterBgMacInvert: pComment; // ??? [te]
