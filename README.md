@@ -8,6 +8,8 @@
 
 All instructions can be found at [draculatheme.com/telegram](https://draculatheme.com/telegram).
 
+*A complete package that installs the background and theme together can be found in [releases](https://github.com/dracula/telegram/releases).*
+
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/telegram/graphs/contributors).

@@ -1,6 +1,6 @@
 {
   "name": "dracula-telegram",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A dark theme for Telegram Desktop based on the Dracula Palette.",
   "main": "README.md",
   "scripts": {
