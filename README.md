@@ -2,7 +2,7 @@
 
 > A dark theme for [Telegram Desktop](https://desktop.telegram.org/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/telegram.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
