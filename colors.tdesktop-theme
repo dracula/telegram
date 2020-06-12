@@ -404,3 +404,13 @@ profileVerifiedCheckBg: pCyan; // [te]
 historyReplyIconFg: windowBgActive;
 historyToDownBg: #282a36cc; // [te]
 titleBgActive: pBg; //  [te]
+sideBarBg: pBg; // filters side bar background
+sideBarBgActive: pSelection; // filters side bar active background
+sideBarBgRipple: rippleBgHeavy; // filters side bar ripple effect
+sideBarTextFg: pYellow; // filters side bar text
+sideBarTextFgActive: pPink; // filters side bar active item text
+sideBarIconFg: pComment; // filters side bar icon
+sideBarIconFgActive: pPurple; // filters side bar active item icon
+sideBarBadgeBg: pPurple; // filters side bar badge background
+sideBarBadgeBgMuted: pSelection; // filters side bar unimportant badge background
+sideBarBadgeFg: pFg; // filters side bar badge text
