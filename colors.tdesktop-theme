@@ -1,10 +1,8 @@
-//////////////////////////////////////////////////////////////////
-////////                Dracula Theme v0.1                ////////
-////////                  By: Neil Smith                  ////////
-////////                                                  ////////
-////////                   Repository:                    ////////
-//////// https://github.com/nmsmith22389/dracula-telegram ////////
-//////////////////////////////////////////////////////////////////
+// Description: Dracula Theme
+// Version: v0.1.3
+// Repository: https://github.com/dracula/telegram
+// Initial Author: Neil Smith
+// Initial Repository: https://github.com/nmsmith22389/dracula-telegram
 
 // Color Pallete
 pBg: #282a36;
@@ -19,7 +17,6 @@ pPurple: #bd93f9;
 pRed: #ff5555;
 pYellow: #f1fa8c;
 pAnthracite: #212020;
-
 
 // Color Vars
 rippleBgHeavy: #ffffff40;
@@ -378,13 +375,18 @@ mediaviewCaptionFg: cWhite;
 mediaviewTextLinkFg: pCyan; // [te]
 mediaviewSaveMsgBg: toastBg;
 mediaviewSaveMsgFg: toastFg;
-mediaviewPlaybackActive: pGreen; // [te]
-mediaviewPlaybackInactive: pSelection; //windowSubTextFg; [te]
-mediaviewPlaybackActiveOver: pGreen; // [te]
-mediaviewPlaybackInactiveOver: pComment; //windowSubTextFgOver; [te]
-mediaviewPlaybackProgressFg: pFg; // [te]
-mediaviewPlaybackIconFg: pComment; // [te]
-mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver;
+mediaviewPlaybackActive: pGreen; // video playback progress already played part
+mediaviewPlaybackInactive: pSelection; // video playback progress upcoming (not played yet) part
+mediaviewPlaybackActiveOver: pPink; // video playback progress already played part with mouse over
+mediaviewPlaybackInactiveOver: pComment; // video playback progress upcoming (not played yet) part with mouse over
+mediaviewPlaybackProgressFg: pFg; // video playback progress text
+mediaviewPlaybackIconFg: pGreen; // video playback controls icon
+mediaviewPlaybackIconFgOver: pPink; // video playback controls icon with mouse over
+mediaviewPipControlsFg: pGreen; // picture-in-picture controls
+mediaviewPipControlsFgOver : pPink; // picture-in-picture controls with mouse over
+mediaviewPipFade : pBg; // picture-in-picture gradient fade controls background
+mediaviewPipPlaybackActive : pGreen; // picture-in-picture playback progress already played part
+mediaviewPipPlaybackInactive: pSelection; // picture-in-picture playback progress upcoming (not played yet) part
 mediaviewTransparentBg: cBlack; // [te]
 mediaviewTransparentFg: #666666; // [te]
 notificationBg: windowBg;
