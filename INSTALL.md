@@ -12,7 +12,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/telegram/ar
 
 #### Activating theme
 
-1.  In Telegram Desktop, go to setting and under the `Chat background` section click on `Choose from file`.
+1.  In Telegram Desktop, go to setting, active option `Bubble Mode` and under the `Chat background` section click on `Choose from file`.
 2.  Select the `colors.tdesktop-theme` file you just downloaded.
 3.  Click `Keep Changes` to apply the theme.
 
