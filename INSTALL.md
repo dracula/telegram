@@ -12,8 +12,11 @@ Download using the [GitHub .zip download](https://github.com/dracula/telegram/ar
 
 #### Activating theme
 
-1.  In Telegram Desktop, go to setting, active option `Bubble Mode` and under the `Chat background` section click on `Choose from file`.
+1.  In Telegram Desktop, go to Setting, on Chat Settings, click on kebab menu (three dots) and `Create new theme` then `import existing theme`.
 2.  Select the `colors.tdesktop-theme` file you just downloaded.
 3.  Click `Keep Changes` to apply the theme.
+4.  Click `Save theme`.
+5.  On `Theme name` set `Dracula`, click on `Choose from file` and select `tiled.png` file you just downloaded.
+6.  Click `save` to apply the background.
 
 _Note: The theme is also available on the [Desktop Themes Channel](https://t.me/themes)_
